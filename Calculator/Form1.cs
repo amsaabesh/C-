@@ -48,5 +48,20 @@ namespace Calculator
             double result = firstNumber * secondNumber;
             resultTextBox.Text = result.ToString();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            double firstNumber = Convert.ToDouble(firstNumberTextBox.Text);
+            double secondNumber = Convert.ToDouble(secondNumberTextBox.Text);
+            double result = Math.Pow(firstNumber, secondNumber);
+            resultTextBox.Text = result.ToString();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            double firstNumber = Convert.ToDouble(firstNumberTextBox.Text);
+            double result = Math.Sqrt(firstNumber);
+            resultTextBox.Text = result.ToString();
+        }
     }
 }
