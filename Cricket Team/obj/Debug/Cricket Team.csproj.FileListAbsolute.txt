@@ -1,0 +1,11 @@
+G:\code\c#\Cricket Team\bin\Debug\Cricket Team.exe.config
+G:\code\c#\Cricket Team\bin\Debug\Cricket Team.exe
+G:\code\c#\Cricket Team\bin\Debug\Cricket Team.pdb
+G:\code\c#\Cricket Team\obj\Debug\Cricket Team.csprojAssemblyReference.cache
+G:\code\c#\Cricket Team\obj\Debug\Cricket_Team.Form1.resources
+G:\code\c#\Cricket Team\obj\Debug\Cricket_Team.Properties.Resources.resources
+G:\code\c#\Cricket Team\obj\Debug\Cricket Team.csproj.GenerateResource.cache
+G:\code\c#\Cricket Team\obj\Debug\Cricket Team.csproj.CoreCompileInputs.cache
+G:\code\c#\Cricket Team\obj\Debug\Cricket Team.exe
+G:\code\c#\Cricket Team\obj\Debug\Cricket Team.pdb
+G:\code\c#\Cricket Team\obj\Debug\Cricket_Team.Bangladesh.resources
