@@ -1,0 +1,13 @@
+G:\code\c#\Parbon\bin\Debug\Parbon.exe.config
+G:\code\c#\Parbon\bin\Debug\Parbon.exe
+G:\code\c#\Parbon\bin\Debug\Parbon.pdb
+G:\code\c#\Parbon\obj\Debug\Parbon.csprojAssemblyReference.cache
+G:\code\c#\Parbon\obj\Debug\Parbon.Form1.resources
+G:\code\c#\Parbon\obj\Debug\Parbon.Properties.Resources.resources
+G:\code\c#\Parbon\obj\Debug\Parbon.csproj.GenerateResource.cache
+G:\code\c#\Parbon\obj\Debug\Parbon.csproj.CoreCompileInputs.cache
+G:\code\c#\Parbon\obj\Debug\Parbon.exe
+G:\code\c#\Parbon\obj\Debug\Parbon.pdb
+G:\code\c#\Parbon\obj\Debug\Parbon.Wedding.resources
+G:\code\c#\Parbon\obj\Debug\Parbon.WS1.resources
+G:\code\c#\Parbon\obj\Debug\Parbon.Holud.resources
