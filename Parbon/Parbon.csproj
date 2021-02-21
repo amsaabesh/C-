@@ -46,11 +46,41 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Beddec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Beddec.Designer.cs">
+      <DependentUpon>Beddec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Birthday.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Birthday.Designer.cs">
+      <DependentUpon>Birthday.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Community.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Community.Designer.cs">
+      <DependentUpon>Community.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Food.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Food.Designer.cs">
+      <DependentUpon>Food.cs</DependentUpon>
+    </Compile>
     <Compile Include="Holud.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Holud.Designer.cs">
       <DependentUpon>Holud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Khatna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Khatna.Designer.cs">
+      <DependentUpon>Khatna.cs</DependentUpon>
     </Compile>
     <Compile Include="Parbon.cs">
       <SubType>Form</SubType>
@@ -72,8 +102,23 @@
     <Compile Include="WS1.Designer.cs">
       <DependentUpon>WS1.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Beddec.resx">
+      <DependentUpon>Beddec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Birthday.resx">
+      <DependentUpon>Birthday.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Community.resx">
+      <DependentUpon>Community.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Food.resx">
+      <DependentUpon>Food.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Holud.resx">
       <DependentUpon>Holud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Khatna.resx">
+      <DependentUpon>Khatna.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Parbon.resx">
       <DependentUpon>Parbon.cs</DependentUpon>
@@ -86,6 +131,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="Wedding.resx">
       <DependentUpon>Wedding.cs</DependentUpon>
@@ -105,6 +151,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\background\1 - Copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\bed\1 - Copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\bed\2 - Copy.jpeg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

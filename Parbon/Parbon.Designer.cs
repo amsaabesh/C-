@@ -84,6 +84,7 @@ namespace Parbon
             this.button4.TabIndex = 3;
             this.button4.Text = "Bed Decoration";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button5
             // 
@@ -94,6 +95,7 @@ namespace Parbon
             this.button5.TabIndex = 4;
             this.button5.Text = "Khatna";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button6
             // 
@@ -103,6 +105,7 @@ namespace Parbon
             this.button6.TabIndex = 5;
             this.button6.Text = "Community Center";
             this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // button7
             // 
@@ -112,6 +115,7 @@ namespace Parbon
             this.button7.TabIndex = 6;
             this.button7.Text = "Birthday";
             this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // button8
             // 
@@ -121,6 +125,7 @@ namespace Parbon
             this.button8.TabIndex = 7;
             this.button8.Text = "Food";
             this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // button9
             // 
