@@ -23,23 +23,7 @@ namespace Parbon
             f1.ShowDialog();
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            Wedding w1 = new Wedding();
-            w1.ShowDialog();
-        }
 
-        private void button3_Click(object sender, EventArgs e)
-        {
-            Holud h1 = new Holud();
-            h1.ShowDialog();
-        }
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-            Beddec b1 = new Beddec();
-            b1.ShowDialog();
-        }
 
         private void button6_Click(object sender, EventArgs e)
         {
@@ -47,22 +31,24 @@ namespace Parbon
             c1.ShowDialog();
         }
 
-        private void button5_Click(object sender, EventArgs e)
-        {
-            Khatna k1 = new Khatna();
-            k1.ShowDialog();
-        }
-
-        private void button7_Click(object sender, EventArgs e)
-        {
-            Birthday b1 = new Birthday();
-            b1.ShowDialog();
-        }
+        
 
         private void button8_Click(object sender, EventArgs e)
         {
-            Food f1 = new Food();
-            f1.ShowDialog();
+            Online_Restaurants OR1 = new Online_Restaurants();
+            OR1.ShowDialog();
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            Catering cat1 = new Catering();
+            cat1.ShowDialog();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Decorator D1 = new Decorator();
+            D1.ShowDialog();
         }
     }
 }

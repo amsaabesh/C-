@@ -1,0 +1,20 @@
+G:\code\c#\Calculator\bin\Debug\Calculator.exe.config
+G:\code\c#\Calculator\bin\Debug\Calculator.exe
+G:\code\c#\Calculator\bin\Debug\Calculator.pdb
+G:\code\c#\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+G:\code\c#\Calculator\obj\Debug\Calculator.Form1.resources
+G:\code\c#\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+G:\code\c#\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+G:\code\c#\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+G:\code\c#\Calculator\obj\Debug\Calculator.exe
+G:\code\c#\Calculator\obj\Debug\Calculator.pdb
+E:\Code\C_Sharp\Niloyer Gonona\bin\Debug\Calculator.exe.config
+E:\Code\C_Sharp\Niloyer Gonona\bin\Debug\Calculator.exe
+E:\Code\C_Sharp\Niloyer Gonona\bin\Debug\Calculator.pdb
+E:\Code\C_Sharp\Niloyer Gonona\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Code\C_Sharp\Niloyer Gonona\obj\Debug\Calculator.Form1.resources
+E:\Code\C_Sharp\Niloyer Gonona\obj\Debug\Calculator.Properties.Resources.resources
+E:\Code\C_Sharp\Niloyer Gonona\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Code\C_Sharp\Niloyer Gonona\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Code\C_Sharp\Niloyer Gonona\obj\Debug\Calculator.exe
+E:\Code\C_Sharp\Niloyer Gonona\obj\Debug\Calculator.pdb

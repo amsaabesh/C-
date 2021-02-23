@@ -1,0 +1,6 @@
+C:\Users\Shoaib\source\repos\caliculi\obj\Debug\caliculi.csprojAssemblyReference.cache
+C:\Users\Shoaib\source\repos\caliculi\obj\Debug\caliculi.Form1.resources
+C:\Users\Shoaib\source\repos\caliculi\obj\Debug\caliculi.Gonona.resources
+C:\Users\Shoaib\source\repos\caliculi\obj\Debug\caliculi.Properties.Resources.resources
+C:\Users\Shoaib\source\repos\caliculi\obj\Debug\caliculi.csproj.GenerateResource.cache
+C:\Users\Shoaib\source\repos\caliculi\obj\Debug\caliculi.csproj.CoreCompileInputs.cache

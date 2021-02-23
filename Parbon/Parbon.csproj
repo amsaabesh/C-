@@ -58,11 +58,29 @@
     <Compile Include="Birthday.Designer.cs">
       <DependentUpon>Birthday.cs</DependentUpon>
     </Compile>
+    <Compile Include="Catering.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Catering.Designer.cs">
+      <DependentUpon>Catering.cs</DependentUpon>
+    </Compile>
     <Compile Include="Community.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Community.Designer.cs">
       <DependentUpon>Community.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Decorator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Decorator.Designer.cs">
+      <DependentUpon>Decorator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Desh_Catering.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desh_Catering.Designer.cs">
+      <DependentUpon>Desh_Catering.cs</DependentUpon>
     </Compile>
     <Compile Include="Food.cs">
       <SubType>Form</SubType>
@@ -81,6 +99,12 @@
     </Compile>
     <Compile Include="Khatna.Designer.cs">
       <DependentUpon>Khatna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Online_Restaurants.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Online_Restaurants.Designer.cs">
+      <DependentUpon>Online_Restaurants.cs</DependentUpon>
     </Compile>
     <Compile Include="Parbon.cs">
       <SubType>Form</SubType>
@@ -108,8 +132,17 @@
     <EmbeddedResource Include="Birthday.resx">
       <DependentUpon>Birthday.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Catering.resx">
+      <DependentUpon>Catering.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Community.resx">
       <DependentUpon>Community.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Decorator.resx">
+      <DependentUpon>Decorator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desh_Catering.resx">
+      <DependentUpon>Desh_Catering.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Food.resx">
       <DependentUpon>Food.cs</DependentUpon>
@@ -119,6 +152,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Khatna.resx">
       <DependentUpon>Khatna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Online_Restaurants.resx">
+      <DependentUpon>Online_Restaurants.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Parbon.resx">
       <DependentUpon>Parbon.cs</DependentUpon>

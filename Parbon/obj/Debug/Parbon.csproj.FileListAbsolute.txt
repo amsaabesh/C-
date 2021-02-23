@@ -29,3 +29,7 @@ E:\Code\C_Sharp\Parbon\obj\Debug\Parbon.Community.resources
 E:\Code\C_Sharp\Parbon\obj\Debug\Parbon.Khatna.resources
 E:\Code\C_Sharp\Parbon\obj\Debug\Parbon.Birthday.resources
 E:\Code\C_Sharp\Parbon\obj\Debug\Parbon.Food.resources
+E:\Code\C_Sharp\Parbon\obj\Debug\Parbon.Catering.resources
+E:\Code\C_Sharp\Parbon\obj\Debug\Parbon.Desh_Catering.resources
+E:\Code\C_Sharp\Parbon\obj\Debug\Parbon.Online_Restaurants.resources
+E:\Code\C_Sharp\Parbon\obj\Debug\Parbon.Decorator.resources

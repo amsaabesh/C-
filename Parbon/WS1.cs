@@ -16,5 +16,11 @@ namespace Parbon
         {
             InitializeComponent();
         }
+
+        private void WS1_Load(object sender, EventArgs e)
+        {
+            Console.WriteLine("Stage Price: 25000 TK\nGate Price: 15000 TK\nPhotoshot Stage: 10000 TK\nStage + Gate + Photoshot Stage=45000TK");
+            
+        }
     }
 }
