@@ -31,8 +31,6 @@ namespace Parbon
             c1.ShowDialog();
         }
 
-        
-
         private void button8_Click(object sender, EventArgs e)
         {
             Online_Restaurants OR1 = new Online_Restaurants();

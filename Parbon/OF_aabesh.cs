@@ -10,17 +10,11 @@ using System.Windows.Forms;
 
 namespace Parbon
 {
-    public partial class Community : Form
+    public partial class OF_aabesh : Form
     {
-        public Community()
+        public OF_aabesh()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            CS1 cs1 = new CS1();
-            cs1.ShowDialog();
         }
     }
 }

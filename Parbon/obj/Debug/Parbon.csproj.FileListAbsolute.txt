@@ -33,3 +33,5 @@ E:\Code\C_Sharp\Parbon\obj\Debug\Parbon.Catering.resources
 E:\Code\C_Sharp\Parbon\obj\Debug\Parbon.Desh_Catering.resources
 E:\Code\C_Sharp\Parbon\obj\Debug\Parbon.Online_Restaurants.resources
 E:\Code\C_Sharp\Parbon\obj\Debug\Parbon.Decorator.resources
+E:\Code\C_Sharp\Parbon\obj\Debug\Parbon.CS1.resources
+E:\Code\C_Sharp\Parbon\obj\Debug\Parbon.OF_aabesh.resources

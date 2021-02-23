@@ -70,6 +70,12 @@
     <Compile Include="Community.Designer.cs">
       <DependentUpon>Community.cs</DependentUpon>
     </Compile>
+    <Compile Include="CS1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CS1.Designer.cs">
+      <DependentUpon>CS1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Decorator.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -99,6 +105,12 @@
     </Compile>
     <Compile Include="Khatna.Designer.cs">
       <DependentUpon>Khatna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OF_aabesh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OF_aabesh.Designer.cs">
+      <DependentUpon>OF_aabesh.cs</DependentUpon>
     </Compile>
     <Compile Include="Online_Restaurants.cs">
       <SubType>Form</SubType>
@@ -138,6 +150,9 @@
     <EmbeddedResource Include="Community.resx">
       <DependentUpon>Community.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="CS1.resx">
+      <DependentUpon>CS1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Decorator.resx">
       <DependentUpon>Decorator.cs</DependentUpon>
     </EmbeddedResource>
@@ -152,6 +167,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Khatna.resx">
       <DependentUpon>Khatna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OF_aabesh.resx">
+      <DependentUpon>OF_aabesh.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Online_Restaurants.resx">
       <DependentUpon>Online_Restaurants.cs</DependentUpon>

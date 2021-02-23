@@ -19,7 +19,8 @@ namespace Parbon
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            Food f1 = new Food();
+            f1.ShowDialog();
         }
     }
 }
