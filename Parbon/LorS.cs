@@ -17,5 +17,9 @@ namespace Parbon
             InitializeComponent();
         }
 
+        private void LorS_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
