@@ -36,3 +36,4 @@ E:\Code\C_Sharp\Parbon\obj\Debug\Parbon.Decorator.resources
 E:\Code\C_Sharp\Parbon\obj\Debug\Parbon.CS1.resources
 E:\Code\C_Sharp\Parbon\obj\Debug\Parbon.OF_aabesh.resources
 E:\Code\C_Sharp\Parbon\obj\Debug\Parbon.LorS.resources
+E:\Code\C_Sharp\Parbon\obj\Debug\Parbon.BookPack.resources

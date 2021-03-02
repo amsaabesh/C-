@@ -83,6 +83,7 @@ namespace Parbon
             this.button9.TabIndex = 8;
             this.button9.Text = "Package Booking";
             this.button9.UseVisualStyleBackColor = false;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // button10
             // 

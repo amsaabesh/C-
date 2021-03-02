@@ -54,5 +54,11 @@ namespace Parbon
             LorS ls = new LorS();
             ls.ShowDialog();
         }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            BookPack bp = new BookPack();
+            bp.ShowDialog();
+        }
     }
 }
