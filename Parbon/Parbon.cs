@@ -48,5 +48,11 @@ namespace Parbon
             Decorator D1 = new Decorator();
             D1.ShowDialog();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            LorS ls = new LorS();
+            ls.ShowDialog();
+        }
     }
 }

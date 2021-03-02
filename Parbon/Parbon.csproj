@@ -106,6 +106,12 @@
     <Compile Include="Khatna.Designer.cs">
       <DependentUpon>Khatna.cs</DependentUpon>
     </Compile>
+    <Compile Include="LorS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LorS.Designer.cs">
+      <DependentUpon>LorS.cs</DependentUpon>
+    </Compile>
     <Compile Include="OF_aabesh.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -167,6 +173,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Khatna.resx">
       <DependentUpon>Khatna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LorS.resx">
+      <DependentUpon>LorS.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="OF_aabesh.resx">
       <DependentUpon>OF_aabesh.cs</DependentUpon>
